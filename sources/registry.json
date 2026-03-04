@@ -2,7 +2,7 @@
   "slug": "samsung-knox",
   "version": 1,
   "created_at": "2026-02-19T02:01:13.616697+00:00",
-  "updated_at": "2026-02-28T09:19:36.124608+00:00",
+  "updated_at": "2026-03-04T09:13:57.033831+00:00",
   "sources": [
     {
       "id": "src_730102b1",
@@ -26,8 +26,8 @@
       "extraction_method": "jina",
       "check_frequency": "monthly",
       "created_at": "2026-02-19T02:01:19.211518+00:00",
-      "last_checked": "2026-02-28T09:19:36.123628+00:00",
-      "last_changed": "2026-02-25T09:10:10.911557+00:00",
+      "last_checked": "2026-03-04T09:13:57.029497+00:00",
+      "last_changed": "2026-03-04T09:13:57.029646+00:00",
       "content_hash": "sha256:131438b3df010f6f",
       "notes": "",
       "status": "active"
